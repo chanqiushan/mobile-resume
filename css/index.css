@@ -1073,15 +1073,15 @@ html {
 .arrow{
     position: absolute;
     left: 50%;
-    bottom: .2rem;
+    bottom: 0.5rem;
     z-index: 10;
     margin-left: -.24rem;
     width: .48rem;
     height: .36rem;
     background: url("../images/tip.png") no-repeat;
     background-size: 100% 100%;
-    -webkit-animation: bounce 1s linear 0s infinite both;
-    animation: bounce 1s linear 0s infinite both;
+    -webkit-animation: fadeInUp 1.5s infinite ease-in-out;
+    animation: fadeInUp 1.5s infinite ease-in-out;
 }
 
 /*CSS3 Animation*/
