@@ -172,7 +172,7 @@ html {
 }
 .page2 .page2-sign2{
     position: absolute;
-    top: 7rem;
+    top: 6.8rem;
     left: 2.7rem;
 }
 #page2 .page2-sign2{
@@ -238,7 +238,7 @@ html {
 }
 .page3 .page3-sign1{
     position: absolute;
-    top: 1.5rem;
+    top: 1rem;
     left: 1.25rem;
 }
 #page3 .page3-sign1{
@@ -247,7 +247,7 @@ html {
 }
 .page3 .job{
     position: absolute;
-    top: 1.6rem;
+    top: 1.1rem;
     left: 1.5rem;
 }
 #page3 .job{
@@ -264,7 +264,7 @@ html {
 }
 .page3 .line{
     position: absolute;
-    top: 4.5rem;
+    top: 3.7rem;
     left: 3.25rem;
     width: 0.0175rem;
     height: 4.76rem;
@@ -277,7 +277,7 @@ html {
 }
 .page3 .square{
     position: absolute;
-    top: 4.5rem;
+    top: 3.7rem;
     left: 3.1rem;
 }
 .page3 .square li{
@@ -318,7 +318,7 @@ html {
 }
 .page3 .detail{
     position: absolute;
-    top: 4.16rem;
+    top: 3.36rem;
     left: 3.7rem;
 }
 .page3 .detail li{
@@ -391,7 +391,7 @@ html {
 }
 .page4 .page4-sign1{
     position: absolute;
-    top: 1.34rem;
+    top: 0.84rem;
     left: 1.8rem;
 }
 #page4 .page4-sign1{
@@ -400,7 +400,7 @@ html {
 }
 .page4 .eduBg,.page4 .eduBg1{
     position: absolute;
-    top: 1.3rem;
+    top: 0.8rem;
     left: 1.5rem;
     width: 3.2rem;
 }
@@ -415,7 +415,7 @@ html {
     transform: rotate(-5deg);
 }
 .page4 .eduBg1{
-    top: 2.3rem;;
+    top: 1.8rem;;
 }
 #page4 .eduBg1{
     -webkit-animation: bounceInLeft 1s ease 0.4s 1 both;
@@ -429,7 +429,7 @@ html {
 
 .page4 .eduExp{
     position: absolute;
-    top: 3.6rem;
+    top: 2.85rem;
     left: 0.45rem;
 }
 .page4 .eduExp li{
@@ -541,7 +541,7 @@ html {
     /*技能标题*/
 .page5 .killBox{
     position: absolute;
-    top: 4.3rem;
+    top: 3.8rem;
 }
 .page5 .killBox .title{
     position: absolute;
@@ -641,7 +641,7 @@ html {
 
 .page6 .page6-sign1{
     position: absolute;
-    top: 1.45rem;
+    top: 1.25rem;
     left: 1.3rem;
 }
 #page6 .page6-sign1{
@@ -654,7 +654,7 @@ html {
 }
 .page6 .page6-sign2{
     position: absolute;
-    top: 0.6rem;
+    top: 0.4rem;
     left: 0.5rem;
 }
 #page6 .page6-sign2{
@@ -664,7 +664,7 @@ html {
 
 .page6 .workEXP,.page6 .workEXP1{
     position: absolute;
-    top: 2.1rem;
+    top: 1.9rem;
     left: 2.2rem;
     width: 3.2rem;
 }
@@ -678,7 +678,7 @@ html {
     color: #676767;
 }
 .page6 .workEXP1{
-    top: 2.7rem;;
+    top: 2.5rem;;
 }
 #page6 .workEXP1{
     -webkit-animation: fadeInDown 1s ease 0.4s 1 both;
@@ -691,7 +691,7 @@ html {
     /*竖线*/
 .page6 .transverseLine{
     position: absolute;
-    top: 4.5rem;
+    top: 4rem;
     left: 0.8rem;
     width: 0.053rem;
     height: 5.5rem;
@@ -705,7 +705,7 @@ html {
     /*星星*/
 .page6 .star{
     position: absolute;
-    top: 4.3rem;
+    top: 3.8rem;
     left: 0.54rem;
 }
 .page6 .star li,.page6 .star li img{
@@ -740,7 +740,7 @@ html {
     /*工作经验信息*/
 .page6 .experience{
     position: absolute;
-    top: 3.4rem;
+    top: 2.9rem;
     left: 0.6rem;
 }
 .page6 .experience li,.page6 .experience li div,.page6 .experience li div img{
@@ -815,7 +815,7 @@ html {
 
 .page7 .page7-sign1{
     position: absolute;
-    top: 2rem;
+    top: 1.7rem;
     left: 1rem;
 }
 #page7 .page7-sign1{
@@ -829,7 +829,7 @@ html {
 }
 .page7 .page7-sign2{
     position: absolute;
-    top: 0.8rem;
+    top: 0.5rem;
     left: 3.1rem;
 }
 #page7 .page7-sign2{
@@ -839,7 +839,7 @@ html {
 
 .page7 .selfAss,.page7 .selfAss1{
     position: absolute;
-    top: 1.3rem;
+    top: 1rem;
     left: 1.2rem;
     width: 3.2rem;
 }
@@ -853,7 +853,7 @@ html {
     color: #676767;
 }
 .page7 .selfAss1{
-    top: 2.4rem;;
+    top: 2.1rem;;
 }
 #page7 .selfAss1{
     -webkit-animation: fadeInDown 1s ease 0.4s 1 both;
@@ -867,7 +867,7 @@ html {
     /*六角形*/
 .page7 .hexagon{
     position: absolute;
-    top: 4rem;
+    top: 3.5rem;
     left: 0.5rem;
 }
 .page7 .hexagon span{
@@ -875,15 +875,15 @@ html {
     top: 0.4rem;
     left: 0.35rem;
     color: white;
-    font-size: 0.4rem;
+    font-size: 0.36rem;
 }
 #page7 .hexagon1 span{
     -webkit-animation: fadeIn 2s ease 1s 1 both;
     animation: fadeIn 2s ease 1s 1 both;
 }
 .page7 .hexagon1,.page7 .hexagon1 img{
-    width: 1.6rem;
-    height: 1.5rem;
+    width: 1.5rem;
+    height: 1.4rem;
 }
 #page7 .hexagon1 img{
     -webkit-animation: bounceIn 2s ease 0.9s infinite both;
@@ -891,18 +891,18 @@ html {
 }
 
 .page7 .hexagon2,.page7 .hexagon2 img{
-    top: 4rem;
+    top: 3.5rem;
     left: 3.5rem;
-    width: 1.9rem;
-    height: 1.8rem;
+    width: 1.8rem;
+    height: 1.7rem;
 }
 #page7 .hexagon2 img{
     -webkit-animation: bounceIn 2s ease 1.2s infinite both;
     animation: bounceIn 2s ease 1.2s infinite both;
 }
 .page7 .hexagon2 span{
-    top: 0.56rem;
-    left: 0.56rem;
+    top: 0.55rem;
+    left: 0.55rem;
     font-size: 0.37rem;
 }
 #page7 .hexagon2 span{
@@ -911,7 +911,7 @@ html {
 }
 
 .page7 .hexagon3,.page7 .hexagon3 img{
-    top: 5.4rem;
+    top: 4.9rem;
     left: 1.9rem;
     width: 1.4rem;
     height: 1.3rem;
@@ -931,10 +931,10 @@ html {
 }
 
 .page7 .hexagon4,.page7 .hexagon4 img{
-    top: 7rem;
+    top: 6.5rem;
     left: 0.5rem;
-    width: 2.9rem;
-    height: 2.8rem;
+    width: 2.8rem;
+    height: 2.7rem;
 }
 #page7 .hexagon4 img{
     -webkit-animation: bounceIn 2s ease 1.6s infinite both;
@@ -942,7 +942,7 @@ html {
 }
 .page7 .hexagon4 span{
     top: 0.9rem;
-    left: 0.56rem;
+    left: 0.54rem;
     font-size: 0.55rem;
 }
 #page7 .hexagon4 span{
@@ -951,9 +951,9 @@ html {
 }
 
 .page7 .hexagon5,.page7 .hexagon5 img{
-    top: 6.5rem;
+    top: 6rem;
     left: 3.5rem;
-    width: 2.5rem;
+    width: 2.4rem;
     height: 2.3rem;
 }
 #page7 .hexagon5 img{
@@ -981,7 +981,7 @@ html {
 
 .page8 .page8-sign1{
     position: absolute;
-    top: 2rem;
+    top: 1.7rem;
     left: 1rem;
 }
 #page8 .page8-sign1{
@@ -994,7 +994,7 @@ html {
 }
 .page8 .page8-sign2{
     position: absolute;
-    top: 0.8rem;
+    top: 0.5rem;
     left: 3.1rem;
 }
 #page8 .page8-sign2{
@@ -1004,7 +1004,7 @@ html {
 
 .page8 .contact0,.page8 .contact1{
     position: absolute;
-    top: 1.3rem;
+    top: 1rem;
     left: 1.2rem;
     width: 3.2rem;
 }
@@ -1018,7 +1018,7 @@ html {
     color: #676767;
 }
 .page8 .contact1{
-    top: 2.4rem;;
+    top: 2.1rem;;
 }
 #page8 .contact1{
     -webkit-animation: fadeInDown 1s ease 0.4s 1 both;
@@ -1032,7 +1032,7 @@ html {
     /*二维码*/
 .page8 .code,.page8 .code img{
     position: absolute;
-    top: 2rem;
+    top: 1.8rem;
     left: 0.85rem;
     width: 3rem;
     height: 3rem;
@@ -1043,7 +1043,7 @@ html {
 }
 .page8 .contactWay p{
     position: absolute;
-    top: 7.2rem;
+    top: 6.7rem;
     left: 1.2rem;
     width: 5rem;
     color: #676767;
@@ -1055,14 +1055,14 @@ html {
     animation: fadeInUp 1s ease 1s 1 both;
 }
 .page8 .contactWay p.name{
-    top: 7.8rem;
+    top: 7.3rem;
 }
 #page8 .contactWay p.name{
     -webkit-animation: fadeInUp 1s ease 1.3s 1 both;
     animation: fadeInUp 1s ease 1.3s 1 both;
 }
 .page8 .contactWay p.tel{
-    top: 8.4rem;
+    top: 7.9rem;
 }
 #page8 .contactWay p.tel{
     -webkit-animation: fadeInUp 1s ease 1.6s 1 both;
