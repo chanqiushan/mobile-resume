@@ -691,7 +691,7 @@ html {
     /*竖线*/
 .page6 .transverseLine{
     position: absolute;
-    top: 4rem;
+    top: 3.7rem;
     left: 0.8rem;
     width: 0.053rem;
     height: 5.5rem;
@@ -705,7 +705,7 @@ html {
     /*星星*/
 .page6 .star{
     position: absolute;
-    top: 3.8rem;
+    top: 3.6rem;
     left: 0.54rem;
 }
 .page6 .star li,.page6 .star li img{
@@ -740,7 +740,7 @@ html {
     /*工作经验信息*/
 .page6 .experience{
     position: absolute;
-    top: 2.9rem;
+    top: 2.7rem;
     left: 0.6rem;
 }
 .page6 .experience li,.page6 .experience li div,.page6 .experience li div img{
