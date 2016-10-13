@@ -220,12 +220,15 @@ html {
     animation: fadeInLeft 1s ease 0.4s 1 both;
 }
 #page2 ul .age{
+    -webkit-animation: fadeInLeft 1s ease 0.6s 1 both;
     animation: fadeInLeft 1s ease 0.6s 1 both;
 }
 #page2 ul .tel{
+    -webkit-animation: fadeInLeft 1s ease 0.8s 1 both;
     animation: fadeInLeft 1s ease 0.8s 1 both;
 }
 #page2 ul .address{
+    -webkit-animation: fadeInLeft 1s ease 1s 1 both;
     animation: fadeInLeft 1s ease 1s 1 both;
 }
 /*page3*/
@@ -286,6 +289,7 @@ html {
     height: 0.3rem;
     z-index: 7;
     background: black;
+    -webkit-transform: rotate(45deg);
     transform: rotate(45deg);
 }
 #page3 .square .square1{
@@ -412,6 +416,7 @@ html {
     font-size: 0.48rem;
     font-weight: bolder;
     color: #676767;
+    -webkit-transform: rotate(-5deg);
     transform: rotate(-5deg);
 }
 .page4 .eduBg1{
@@ -424,6 +429,7 @@ html {
 .page4 .eduBg1 p{
     font-size: 0.27rem;
     color: #676767;
+    -webkit-transform: rotate(5deg);
     transform: rotate(5deg);
 }
 
@@ -535,10 +541,11 @@ html {
 .page5 .skill2 p{
     font-size: 0.27rem;
     color: #676767;
+    -webkit-transform: rotate(10deg);
     transform: rotate(10deg);
 }
 
-    /*技能标题*/
+/*技能标题*/
 .page5 .killBox{
     position: absolute;
     top: 3.8rem;
@@ -560,7 +567,7 @@ html {
     font-size: 0.4rem;
     color: #4c4e4f;
 }
-    /*竖线*/
+/*竖线*/
 .page5 .killBox .verticalLine{
     position: absolute;
     top: -0.06rem;
@@ -575,7 +582,7 @@ html {
     -webkit-animation: fadeIn 2s ease 0.5s 1 both;
     animation: fadeIn 2s ease 0.5s 1 both;
 }
-    /*第1竖排圆圈*/
+/*第1竖排圆圈*/
 .page5 .killBox .round{
     position: absolute;
     top: 0.1rem;
@@ -593,7 +600,7 @@ html {
     -webkit-animation: bounceIn 2s ease 0.5s 1 both;
     animation: bounceIn 2s ease 0.5s 1 both;
 }
-    /*第2竖排圆圈*/
+/*第2竖排圆圈*/
 .page5 .killBox .round1{
     left: 2.9rem;
 }
@@ -601,7 +608,7 @@ html {
     -webkit-animation: bounceIn 2s ease 0.6s 1 both;
     animation: bounceIn 2s ease 0.6s 1 both;
 }
-    /*第3竖排圆圈*/
+/*第3竖排圆圈*/
 .page5 .killBox .round2{
     left: 3.55rem;
 }
@@ -609,7 +616,7 @@ html {
     -webkit-animation: bounceIn 2s ease 0.7s 1 both;
     animation: bounceIn 2s ease 0.7s 1 both;
 }
-    /*第4竖排圆圈*/
+/*第4竖排圆圈*/
 .page5 .killBox .round3{
     left: 4.2rem;
 }
@@ -617,7 +624,7 @@ html {
     -webkit-animation: bounceIn 2s ease 0.8s 1 both;
     animation: bounceIn 2s ease 0.8s 1 both;
 }
-    /*第5竖排圆圈*/
+/*第5竖排圆圈*/
 .page5 .killBox .round4{
     left: 4.86rem;
 }
@@ -688,7 +695,7 @@ html {
     font-size: 0.27rem;
     color: #676767;
 }
-    /*竖线*/
+/*竖线*/
 .page6 .transverseLine{
     position: absolute;
     top: 3.7rem;
@@ -702,7 +709,7 @@ html {
     -webkit-animation: fadeInUp 1s ease 0.4s 1 both;
     animation: fadeInUp 1s ease 0.4s 1 both;
 }
-    /*星星*/
+/*星星*/
 .page6 .star{
     position: absolute;
     top: 3.6rem;
@@ -714,6 +721,7 @@ html {
     height: 0.6rem;
 }
 #page6 .star li.star1{
+    -webkit-animation: fadeIn 1s ease 0.5s 1 both;
     animation: fadeIn 1s ease 0.5s 1 both;
 }
 .page6 .star li.star2{
@@ -737,7 +745,7 @@ html {
     -webkit-animation: fadeIn 1s ease 0.8s 1 both;
     animation: fadeIn 1s ease 0.8s 1 both;
 }
-    /*工作经验信息*/
+/*工作经验信息*/
 .page6 .experience{
     position: absolute;
     top: 2.7rem;
@@ -862,9 +870,10 @@ html {
 .page7 .selfAss1 p{
     font-size: 0.27rem;
     color: #676767;
+    -webkit-transform: rotate(10deg);
     transform: rotate(10deg);
 }
-    /*六角形*/
+/*六角形*/
 .page7 .hexagon{
     position: absolute;
     top: 3.5rem;
@@ -1029,7 +1038,7 @@ html {
     color: #676767;
     transform: rotate(10deg);
 }
-    /*二维码*/
+/*二维码*/
 .page8 .code,.page8 .code img{
     position: absolute;
     top: 1.8rem;
@@ -1723,15 +1732,15 @@ html {
 }
 
 @keyframes fadeInDown {
-     from {
-         opacity: 0;
-         -webkit-transform: translate3d(0, -100%, 0);
-         transform: translate3d(0, -100%, 0);
-     }
+    from {
+        opacity: 0;
+        -webkit-transform: translate3d(0, -100%, 0);
+        transform: translate3d(0, -100%, 0);
+    }
 
-     to {
-         opacity: 1;
-         -webkit-transform: none;
-         transform: none;
-     }
- }
+    to {
+        opacity: 1;
+        -webkit-transform: none;
+        transform: none;
+    }
+}
